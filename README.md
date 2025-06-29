@@ -1,2 +1,2 @@
-# tarun9949-dev.github.io
+# tarun.github.io
 My personal developer portfolio
